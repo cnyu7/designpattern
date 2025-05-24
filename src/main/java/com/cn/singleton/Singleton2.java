@@ -1,4 +1,4 @@
-package com.cn.single;
+package com.cn.singleton;
 
 /**
  * 饿汉式
